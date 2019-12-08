@@ -1,1 +1,1 @@
-# my-lms
+# learning management system
